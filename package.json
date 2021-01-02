@@ -1,0 +1,23 @@
+{
+  "name": "@greact/core",
+  "version": "1.0.0",
+  "description": "The first point of @greact",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forestjava/greact.git"
+  },
+  "keywords": [
+    "@greact"
+  ],
+  "author": "Nikita Biziaev <cap7goo@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/forestjava/greact/issues"
+  },
+  "homepage": "https://github.com/forestjava/greact#readme"
+}
