@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "The first point of @greact",
   "type": "module",
+  "private": false,
   "main": "index.js",
   "scripts": {
     "test": "test.js"
