@@ -2,7 +2,7 @@
 
 ## Clojure Installation
 
-Following the [clojure.org](https://clojure.org/guides/getting_started)
+Following the [clojure.org](https://clojure.org/guides/getting_started)  
 Ensure that the following dependencies are installed: `bash`, `curl`, `rlwrap`, and `Java`.
 
 Use the `linux-install` script to download and run the install, which will create the executables `/usr/local/bin/clj`, `/usr/local/bin/clojure`, and the directory `/usr/local/lib/clojure`:
